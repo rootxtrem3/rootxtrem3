@@ -13,8 +13,10 @@
 
 **Tech Stack**
 ![React](https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61dafb)
+![Go](https://img.shields.io/badge/Go-0b1220?style=for-the-badge&logo=go&logoColor=f0b429)
 ![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=node.js&logoColor=5fa04e)
 ![Python](https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=ffd43b)
+![C++](https://img.shields.io/badge/c++-0b1220?style=for-the-badge&logo=c++&logoColor=5fa04e)
 ![Linux](https://img.shields.io/badge/Linux-0b1220?style=for-the-badge&logo=linux&logoColor=f0b429)
 ![Android](https://img.shields.io/badge/Android-0b1220?style=for-the-badge&logo=android&logoColor=3ddc84)
 ![Ollama](https://img.shields.io/badge/Ollama-0b1220?style=for-the-badge&logo=ollama&logoColor=ffffff)
@@ -26,7 +28,6 @@
 | [tui-note_1](https://github.com/rootxtrem3/tui-note_1) | Terminal-first notes and workflow utility |
 | [TTSLLM](https://github.com/rootxtrem3/TTSLLM) | Text-to-speech + LLM experimentation |
 
-**Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootxtrem3&show_icons=true&hide_title=true&rank_icon=github&theme=transparent)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rootxtrem3&theme=transparent)
