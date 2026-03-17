@@ -1,19 +1,17 @@
-# rootxtrem3
-
-Minimal. Direct. System-minded.
+# RootX(Eba/Ebasa)
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-121212?style=for-the-badge&labelColor=0b0b0b&color=121212)
 ![Android](https://img.shields.io/badge/Android%20Systems-2b2b2b?style=for-the-badge&labelColor=0b0b0b&color=2b2b2b)
 ![AI Tooling](https://img.shields.io/badge/AI%20Tooling-1f2937?style=for-the-badge&labelColor=0b0b0b&color=1f2937)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-111827?style=for-the-badge&labelColor=0b0b0b&color=111827)
 
-**Focus**
+**Fields**
 - Cybersecurity and web security
 - Android internals and kernels
 - AI tooling and local LLM workflows
 - Full-stack engineering (React + backend)
 
-**Stack**
+**Tech Stack**
 ![React](https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=node.js&logoColor=5fa04e)
 ![Python](https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=ffd43b)
