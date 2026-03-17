@@ -13,17 +13,6 @@ Minimal. Direct. System-minded.
 - AI tooling and local LLM workflows
 - Full-stack engineering (React + backend)
 
-**Operating Style**
-- Efficiency first, low tolerance for fluff
-- Experimental + applied learning (HTB, TryHackMe)
-- Automation and control over abstraction
-- Structured outputs: skills, prompts, configs
-
-**Current Goals**
-- Deepen penetration testing skills
-- Build high-quality, performance-first web systems
-- Run local LLMs efficiently and reliably
-
 **Stack**
 ![React](https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=node.js&logoColor=5fa04e)
@@ -41,7 +30,9 @@ Minimal. Direct. System-minded.
 
 **Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootxtrem3&show_icons=true&hide_title=true&rank_icon=github&theme=transparent)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rootxtrem3&theme=transparent)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rootxtrem3&layout=compact&theme=transparent)
 
 **Links**
