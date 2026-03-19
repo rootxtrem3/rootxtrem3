@@ -39,4 +39,4 @@
 - Portfolio: `port-puce-seven.vercel.app`
 - LinkedIn: `https://www.linkedin.com/in/ebasa-getu-a48349383`
 - Telegram: `@f_life3`
-- Email: `mailto:ebafrost@gmail.com`
+- [Email](mailto:ebafrost@gmail.com)
