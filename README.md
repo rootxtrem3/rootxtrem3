@@ -36,7 +36,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rootxtrem3&layout=compact&theme=transparent)
 
 **Links**
-- [My Portfolio](https://www.port-puce-seven.vercel.app)
+- [My Portfolio](https://port-puce-seven.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/ebasa-getu-a48349383)
 - [Telegram](https://www.t.me/f_life3)
 - [Email](mailto:ebafrost@gmail.com)
