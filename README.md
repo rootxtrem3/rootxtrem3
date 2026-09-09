@@ -15,6 +15,7 @@
 
 ![React](https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Go](https://img.shields.io/badge/Go-0b1220?style=for-the-badge&logo=go&logoColor=f0b429)
+![Rust](https://img.shields.io/badge/Rust-0b1220?style=for-the-badge&logo=go&logoColor=f0b429)
 ![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=node.js&logoColor=5fa04e)
 ![Python](https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=ffd43b)
 ![C++](https://img.shields.io/badge/c++-0b1220?style=for-the-badge&logo=c++&logoColor=5fa04e)
@@ -28,6 +29,9 @@
 | [PyOrganizer](https://github.com/rootxtrem3/PyOrganizer) | Python automation / organizer tooling |
 | [tui-note_1](https://github.com/rootxtrem3/tui-note_1) | Terminal-first notes and workflow utility |
 | [TTSLLM](https://github.com/rootxtrem3/TTSLLM) | Text-to-speech + LLM experimentation |
+| [Hyprfrost](https://github.com/rootxtrem3/hyprfrost) | Modern and sleek hyprland setup optimized for maximum productivity |
+| [WAFID](https://github.com/rootxtrem3/wafid) | A fast WAF detection and identification tool fully written in Rust |
+| [Cryptex](https://github.com/rootxtrem3/cryptex) | A TUI tool for linux for encoding, decoding and computing hashes |
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootxtrem3&show_icons=true&hide_title=true&rank_icon=github&theme=transparent)
 
@@ -37,6 +41,6 @@
 
 **Links**
 - [My Portfolio](https://port-puce-seven.vercel.app)
-- [LinkedIn](https://www.linkedin.com/in/ebasa-getu-a48349383)
-- [Telegram](https://www.t.me/f_life3)
+- [LinkedIn](https://www.linkedin.com/in/ebasa-getu)
+- [Telegram](https://www.t.me/hypr_root)
 - [Email](mailto:ebafrost@gmail.com)
