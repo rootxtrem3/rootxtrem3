@@ -15,7 +15,7 @@
 
 ![React](https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Go](https://img.shields.io/badge/Go-0b1220?style=for-the-badge&logo=go&logoColor=f0b429)
-![Rust](https://img.shields.io/badge/Rust-0b1220?style=for-the-badge&logo=go&logoColor=f0b429)
+![Rust](https://img.shields.io/badge/Rust-0b1220?style=for-the-badge&logo=rust&logoColor=f0b429)
 ![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=node.js&logoColor=5fa04e)
 ![Python](https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=ffd43b)
 ![C++](https://img.shields.io/badge/c++-0b1220?style=for-the-badge&logo=c++&logoColor=5fa04e)
