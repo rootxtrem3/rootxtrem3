@@ -237,21 +237,35 @@ philosophy: >
 
 <!-- ==================== STATISTICS ==================== -->
 
+<!-- GITHUB ANALYTICS -->
+
 <h2 align="center">05 / GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rootxtrem3&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=0D1117&title_color=7CFFCB&icon_color=818CF8&text_color=A9B7C6" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=rootxtrem3&hide_border=true&background=0D1117&ring=7CFFCB&fire=818CF8&currStreakLabel=7CFFCB&sideLabels=A9B7C6&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <sub>LIVE PROFILE STATISTICS // ROOTXTREM3</sub>
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootxtrem3&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFFCB&text_color=A9B7C6&langs_count=8" />
+  <img width="49%"
+    src="https://ghstats.dev/api/card?username=rootxtrem3&theme=midnight&bg=0D1117&text=A9B7C6&title_color=7CFFCB&icon_color=818CF8&border_color=263449"
+    alt="GitHub statistics" />
+  <img width="49%"
+    src="https://ghstats.dev/api/langs?username=rootxtrem3&theme=midnight&layout=compact&bg=0D1117&text=A9B7C6&title_color=7CFFCB&border_color=263449"
+    alt="Top programming languages" />
 </p>
 
 <h3 align="center">CONTRIBUTION ACTIVITY</h3>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rootxtrem3&bg_color=0D1117&color=A9B7C6&line=7CFFCB&point=818CF8&area=true&area_color=173B4F&hide_border=true" />
+  <img width="96%"
+    src="https://ghstats.dev/api/sparkline?username=rootxtrem3&days=90&width=900&height=150&line_color=7CFFCB&fill_color=173B4F&hide_border=true"
+    alt="90-day GitHub activity" />
+</p>
+
+<p align="center">
+  <img src="https://ghstats.dev/api/mini?username=rootxtrem3&metric=stars&color=818CF8&style=for-the-badge" />
+  <img src="https://ghstats.dev/api/mini?username=rootxtrem3&metric=followers&color=7CFFCB&style=for-the-badge" />
+  <img src="https://ghstats.dev/api/mini?username=rootxtrem3&metric=repos&color=818CF8&style=for-the-badge" />
 </p>
 
 ---
